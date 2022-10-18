@@ -12,7 +12,7 @@
 - Learned about generating number colors based on level of the game.(Easy-3, Hard-6)
 - Learned about checking the choosed color with selected color.if it returns true change all squares to that color and update Message as "Correct!". else, change square color to background color (#232323) and update the Message as "Try Again!"
 
-**Live Link :** [Click Here](https://rgbcolorguess-game.netlify.app.netlify.app/ "Deployed on Netlify")
+**Live Link :** [Click Here](https://rgbcolorguess-game.netlify.app "Deployed on Netlify")
 
 >### Preview :
 

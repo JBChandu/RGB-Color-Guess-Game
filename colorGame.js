@@ -42,7 +42,7 @@ function setupSquares(){
           resetButton.textContent = "Play Again?";
           } else {
           this.style.background = "#232323";
-          messageDisplay.textContent = "Try Again...";
+          messageDisplay.textContent = "Retry!!!";
       }
     });
   }
